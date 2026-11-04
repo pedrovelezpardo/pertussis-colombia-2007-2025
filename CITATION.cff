@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article (in preparation) and this repository."
+title: "Pertussis in Colombia, 2007–2025: code and data for a nationwide analysis of surveillance microdata"
+type: software
+authors:
+  - given-names: Doris
+    family-names: Cardona
+    affiliation: "Independent Researcher, Medellín, Colombia"
+    orcid: "https://orcid.org/0000-0003-4338-588X"
+  - given-names: Angela
+    family-names: Segura Cardona
+    affiliation: "Universidad CES, Medellín, Colombia"
+    orcid: "https://orcid.org/0000-0002-0010-1413"
+  - given-names: Alejandra
+    family-names: Segura Cardona
+    affiliation: "Universidad CES, Medellín, Colombia"
+    orcid: "https://orcid.org/0000-0002-1624-0952"
+  - given-names: Pedro
+    family-names: Velez-Pardo
+    affiliation: "Universidad CES, Medellín, Colombia"
+    orcid: "https://orcid.org/0009-0006-3850-0440"
+repository-code: "https://github.com/pedrovelezpardo/pertussis-colombia-2007-2025"
+keywords:
+  - pertussis
+  - Bordetella pertussis
+  - public health surveillance
+  - maternal immunization
+  - health inequities
+  - spatial epidemiology
+  - Colombia

@@ -1,0 +1,21 @@
+# Large inputs downloaded by 02_scripts/01_descarga_datos.R
+01_datos/raw/dane_proyecciones/
+01_datos/raw/terridata_salud/extraido/
+*.part
+
+# Working files kept outside the repository
+*.docx
+00_convocatoria/
+05_manuscrito/
+versiones anteriores/
+01_datos/raw/minsalud_coberturas/antioquia_*
+01_datos/procesados/sivigila_800_2007_2025_raw.rds
+04_figuras/*.tiff
+04_figuras/*.eps
+
+# R and system files
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
