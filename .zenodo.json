@@ -1,0 +1,40 @@
+{
+  "title": "Pertussis in Colombia, 2007–2025: code and data for a nationwide analysis of surveillance microdata",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code, processed data, input files, results and figures for the manuscript “Pertussis in Colombia before and after the introduction of maternal pertussis vaccination, a nationwide analysis of surveillance microdata, 2007–2025”, by Doris Cardona, Angela Segura Cardona, Alejandra Segura Cardona and Pedro Velez-Pardo, prepared for <em>Frontiers in Public Health</em> (Research Topic “Bordetella Pertussis in the 21st Century: Surveillance, Immunity, and Control of a Resurgent Pathogen”).</p><p>The study analyzes the 17,021 confirmed pertussis cases notified to SIVIGILA, Colombia's national public health surveillance system, in 2007–2025, using the anonymized microdata published by the Instituto Nacional de Salud. It links them with population, poverty, ethnicity and geographic data from DANE, municipal health indicators from TerriData (DNP) and WHO/UNICEF immunization coverage estimates. The README lists the files and the order in which the scripts run.</p><p>The code is released under the MIT License. Processed data, results and figures created by the authors are released under CC BY 4.0 (LICENSE-DATA.md). The raw input files are copies of public data and remain under the terms of their providers.</p>",
+  "creators": [
+    {
+      "name": "Cardona, Doris",
+      "affiliation": "Independent Researcher, Medellín, Colombia",
+      "orcid": "0000-0003-4338-588X"
+    },
+    {
+      "name": "Segura Cardona, Angela",
+      "affiliation": "Universidad CES, Medellín, Colombia",
+      "orcid": "0000-0002-0010-1413"
+    },
+    {
+      "name": "Segura Cardona, Alejandra",
+      "affiliation": "Universidad CES, Medellín, Colombia",
+      "orcid": "0000-0002-1624-0952"
+    },
+    {
+      "name": "Velez-Pardo, Pedro",
+      "affiliation": "Universidad CES, Medellín, Colombia",
+      "orcid": "0009-0006-3850-0440"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "pertussis",
+    "Bordetella pertussis",
+    "public health surveillance",
+    "maternal immunization",
+    "health inequities",
+    "spatial epidemiology",
+    "Colombia"
+  ]
+}
