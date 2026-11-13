@@ -2,7 +2,7 @@
 
 Code, data and outputs for:
 
-> Cardona D, Segura Cardona A, Segura Cardona A, Velez-Pardo P. **The 2025 pertussis resurgence in Colombia: an older age profile, relative protection of young infants after maternal Tdap, and widening Indigenous inequities. A nationwide analysis of surveillance microdata, 2007–2025.** Manuscript in preparation for *Frontiers in Public Health*, Research Topic "Bordetella Pertussis in the 21st Century: Surveillance, Immunity, and Control of a Resurgent Pathogen".
+> Cardona D, Segura Cardona A, Segura Cardona A, Velez-Pardo P. **Pertussis in Colombia before and after the introduction of maternal pertussis vaccination, a nationwide analysis of surveillance microdata, 2007–2025.** Manuscript in preparation for *Frontiers in Public Health*, Research Topic "Bordetella Pertussis in the 21st Century: Surveillance, Immunity, and Control of a Resurgent Pathogen".
 
 The study analyses the 17,021 confirmed pertussis cases notified to Colombia's national public health surveillance system (SIVIGILA, event 800) between 2007 and 2025, using the anonymised case-level microdata published by the Instituto Nacional de Salud (INS). It links them to population projections, census poverty and ethnicity data and municipal boundaries from DANE, municipal health indicators from TerriData (DNP) and WHO/UNICEF estimates of national immunization coverage (WUENIC).
 
