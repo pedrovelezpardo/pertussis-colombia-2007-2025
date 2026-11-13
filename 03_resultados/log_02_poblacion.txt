@@ -1,4 +1,0 @@
-Nacional OK: 13332 filas; población total 2025 = 53,057,212 
-Departamental OK: 33 departamentos
-Municipal OK: 1123 municipios; 2005-2026 
-EXIT 0
