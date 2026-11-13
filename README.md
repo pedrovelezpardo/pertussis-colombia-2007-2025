@@ -4,6 +4,8 @@ Code, data and outputs for:
 
 > Cardona D, Segura Cardona A, Segura Cardona A, Velez-Pardo P. **Pertussis in Colombia before and after the introduction of maternal pertussis vaccination, a nationwide analysis of surveillance microdata, 2007–2025.** Manuscript in preparation for *Frontiers in Public Health*, Research Topic "Bordetella Pertussis in the 21st Century: Surveillance, Immunity, and Control of a Resurgent Pathogen".
 
+Version 1.0.0, the one used for the article, is archived in Zenodo: https://doi.org/10.5281/zenodo.24182502 (all versions: https://doi.org/10.5281/zenodo.24182501).
+
 The study analyses the 17,021 confirmed pertussis cases notified to Colombia's national public health surveillance system (SIVIGILA, event 800) between 2007 and 2025, using the anonymised case-level microdata published by the Instituto Nacional de Salud (INS). It links them to population projections, census poverty and ethnicity data and municipal boundaries from DANE, municipal health indicators from TerriData (DNP) and WHO/UNICEF estimates of national immunization coverage (WUENIC).
 
 ## Contents
@@ -82,7 +84,7 @@ The SIVIGILA microdata are open data published by INS without names or identity 
 
 ## Citation and contact
 
-Citation metadata are in `CITATION.cff`; please cite the article once published. Corresponding authors: Doris Cardona (doris.cardona@gmail.com) and Pedro Velez-Pardo (pvelez@ces.edu.co), Medellín, Colombia.
+Citation metadata are in `CITATION.cff`; please cite the article once published and the Zenodo archive. Corresponding authors: Doris Cardona (doris.cardona@gmail.com) and Pedro Velez-Pardo (pvelez@ces.edu.co), Medellín, Colombia.
 
 ## En español
 
