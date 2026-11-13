@@ -1,0 +1,9 @@
+Spherical geometry (s2) switched off
+Warning message:
+The `label.size` argument of `geom_label()` is deprecated as of ggplot2 3.5.0.
+ℹ Please use the `linewidth` argument instead. 
+Warning message:
+In melt.data.table(fread("03_resultados/calidad_cobertura_terridata_vs_wuenic.csv")[,  :
+  'measure.vars' [TerriData municipal median, WUENIC national DTP3] are not all of the same type. By order of hierarchy, the molten data value column will be of type 'double'. All measure variables not of type 'double' will be coerced too. Check DETAILS in ?melt.data.table for more on coercion.
+Figuras v4 generadas en 04_figuras 
+Flujo: total 17021 | edad 16973 | series 16998 | municipal 16836 | lactantes 9849 | modelo muerte 9757 

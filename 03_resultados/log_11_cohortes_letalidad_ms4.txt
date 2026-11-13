@@ -1,0 +1,270 @@
+There were 24 warnings (use warnings() to see them)
+B listo: APC
+boundary (singular) fit: see help('isSingular')
+New names:
+• `` -> `...1`
+• `` -> `...2`
+• `` -> `...3`
+• `` -> `...4`
+• `` -> `...5`
+• `` -> `...6`
+• `` -> `...7`
+• `` -> `...8`
+• `` -> `...9`
+• `` -> `...10`
+• `` -> `...11`
+• `` -> `...12`
+• `` -> `...13`
+     cohortes    df       irr        lo       hi          p      base
+       <char> <num>     <num>     <num>    <num>      <num>    <char>
+ 1: 2019-2021     3 1.5360596 1.0180930 2.317548 0.04081037 2014-2019
+ 2: 2019-2021     4 1.1493627 0.7573946 1.744183 0.51299199 2014-2019
+ 3: 2019-2021     5 1.2227061 0.7892272 1.894271 0.36799931 2014-2019
+ 4: 2020-2021     3 1.5341903 1.0068875 2.337639 0.04637712 2014-2019
+ 5: 2020-2021     4 1.1824872 0.7982401 1.751699 0.40313231 2014-2019
+ 6: 2020-2021     5 1.2566040 0.8121122 1.944379 0.30509706 2014-2019
+ 7: 2020-2022     3 1.4294508 0.9781480 2.088978 0.06491325 2014-2019
+ 8: 2020-2022     4 1.0735446 0.7402556 1.556892 0.70826881 2014-2019
+ 9: 2020-2022     5 1.1534823 0.7018589 1.895711 0.57322053 2014-2019
+10: 2019-2021     3 1.3624024 0.9060576 2.048590 0.13728767 2015-2019
+11: 2019-2021     4 0.9037351 0.5916077 1.380539 0.63961411 2015-2019
+12: 2019-2021     5 0.9471793 0.6119158 1.466131 0.80765472 2015-2019
+13: 2020-2021     3 1.4062355 0.9352980 2.114298 0.10131483 2015-2019
+14: 2020-2021     4 1.0152721 0.6848257 1.505168 0.93985906 2015-2019
+15: 2020-2021     5 1.0361064 0.6728679 1.595434 0.87205494 2015-2019
+16: 2020-2022     3 1.3796785 0.9709253 1.960514 0.07258906 2015-2019
+17: 2020-2022     4 0.9822718 0.6735656 1.432463 0.92596337 2015-2019
+18: 2020-2022     5 0.9687888 0.5924503 1.584186 0.89943452 2015-2019
+          previa                                                            contraste       est        lo        hi   p_pos
+          <char>                                                               <char>     <num>     <num>     <num>   <num>
+1:   PC(1, 0.01) Cohortes 2019-2022 frente a la tendencia lineal de 2014-2018 (exp D) 0.8304415 0.6210451 0.9887861 0.01600
+2:   PC(1, 0.01)      Cambio de pendiente [f(2022)-f(2019)]-[f(2018)-f(2015)] (exp S) 0.7948457 0.5321062 0.9977589 0.02400
+3: PC(0.5, 0.01) Cohortes 2019-2022 frente a la tendencia lineal de 2014-2018 (exp D) 0.8585599 0.6637897 0.9976828 0.02250
+4: PC(0.5, 0.01)      Cambio de pendiente [f(2022)-f(2019)]-[f(2018)-f(2015)] (exp S) 0.8333731 0.5904955 1.0048385 0.02925
+5:   PC(2, 0.01) Cohortes 2019-2022 frente a la tendencia lineal de 2014-2018 (exp D) 0.8136523 0.5985816 0.9814169 0.01150
+6:   PC(2, 0.01)      Cambio de pendiente [f(2022)-f(2019)]-[f(2018)-f(2015)] (exp S) 0.7698217 0.5042597 0.9842243 0.01750
+   estadistico observado replicado_mediana p_predictivo
+        <char>     <num>             <num>        <num>
+1:       ceros    75.000           78.0000        0.664
+2:      maximo  2892.000         2890.0000        0.490
+3:     pearson   327.172          379.0936        0.904
+    cohorte         dev          lo          hi   p_pos
+      <int>       <num>       <num>       <num>   <num>
+ 1:    2010  0.17076960  0.02497896  0.32109090 0.98775
+ 2:    2011  0.18878411  0.03928592  0.34183167 0.99175
+ 3:    2012  0.20788336  0.06246058  0.35991449 0.99650
+ 4:    2013  0.22729227  0.07976597  0.38414391 0.99825
+ 5:    2014  0.24376415  0.09251519  0.41183693 0.99975
+ 6:    2015  0.24822475  0.09259540  0.43444491 0.99975
+ 7:    2016  0.24436397  0.07736240  0.44560601 0.99925
+ 8:    2017  0.22027253  0.05360378  0.44120661 0.99725
+ 9:    2018  0.17361762  0.01240740  0.39730275 0.98725
+10:    2019  0.10243298 -0.04166084  0.31448471 0.90125
+11:    2020  0.01563357 -0.11925233  0.20350517 0.57650
+12:    2021 -0.08701197 -0.22753497  0.08113788 0.12550
+13:    2022 -0.20482710 -0.37738942 -0.04468120 0.00675
+14:    2023 -0.33715936 -0.57314316 -0.12454705 0.00100
+15:    2024 -0.47135657 -0.82028487 -0.17848624 0.00075
+16:    2025 -0.60684536 -1.08886280 -0.21825171 0.00075
+                              paso     n muertes
+                            <char> <int>   <int>
+1: Lactantes notificados 2011-2025  9849     262
+2:  Sin departamento de residencia    71       3
+3:  Régimen de salud indeterminado    21       3
+4:    Analizados (casos completos)  9757     256
+                                     modelo                termino    or    lo    hi       p
+                                     <char>                 <char> <num> <num> <num>   <num>
+ 1:    Principal (sin tipo de confirmación)        edad_g4-5 meses  0.92  0.49  1.73 8.0e-01
+ 2:    Principal (sin tipo de confirmación)        edad_g2-3 meses  1.84  1.13  3.00 1.4e-02
+ 3:    Principal (sin tipo de confirmación)      edad_g6-8 semanas  2.83  1.70  4.69 5.7e-05
+ 4:    Principal (sin tipo de confirmación)       edad_g<6 semanas  3.00  1.84  4.88 1.0e-05
+ 5:    Principal (sin tipo de confirmación)      periodo42014-2019  1.02  0.75  1.38 9.2e-01
+ 6:    Principal (sin tipo de confirmación)      periodo42020-2024  0.87  0.40  1.89 7.3e-01
+ 7:    Principal (sin tipo de confirmación)           periodo42025  1.71  1.06  2.75 2.7e-02
+ 8:    Principal (sin tipo de confirmación) etnia3Afrodescendiente  0.75  0.30  1.86 5.3e-01
+ 9:    Principal (sin tipo de confirmación)         etnia3Indígena  4.75  3.12  7.25 4.4e-13
+10:    Principal (sin tipo de confirmación)     regimen4Subsidiado  1.32  0.97  1.78 7.6e-02
+11:    Principal (sin tipo de confirmación)   regimen4No asegurado  0.81  0.50  1.31 3.9e-01
+12:    Principal (sin tipo de confirmación)       regimen4Especial  0.77  0.30  1.97 5.9e-01
+13:    Principal (sin tipo de confirmación)                  rural  1.94  1.41  2.67 5.3e-05
+14:    Principal (sin tipo de confirmación)                  mujer  0.94  0.73  1.22 6.5e-01
+15:    Principal (sin tipo de confirmación)               migrante  6.28  2.46 15.98 1.2e-04
+16: Con tipo de confirmación (plan inicial)        edad_g4-5 meses  0.86  0.46  1.62 6.4e-01
+17: Con tipo de confirmación (plan inicial)        edad_g2-3 meses  1.68  1.03  2.74 3.7e-02
+18: Con tipo de confirmación (plan inicial)      edad_g6-8 semanas  2.65  1.60  4.40 1.6e-04
+19: Con tipo de confirmación (plan inicial)       edad_g<6 semanas  2.78  1.71  4.53 3.9e-05
+20: Con tipo de confirmación (plan inicial)      periodo42014-2019  0.85  0.62  1.16 3.1e-01
+21: Con tipo de confirmación (plan inicial)      periodo42020-2024  0.79  0.37  1.71 5.5e-01
+22: Con tipo de confirmación (plan inicial)           periodo42025  1.28  0.79  2.08 3.1e-01
+23: Con tipo de confirmación (plan inicial) etnia3Afrodescendiente  0.85  0.34  2.11 7.3e-01
+24: Con tipo de confirmación (plan inicial)         etnia3Indígena  4.98  3.28  7.57 5.5e-14
+25: Con tipo de confirmación (plan inicial)     regimen4Subsidiado  1.30  0.96  1.77 9.0e-02
+26: Con tipo de confirmación (plan inicial)   regimen4No asegurado  0.85  0.53  1.38 5.2e-01
+27: Con tipo de confirmación (plan inicial)       regimen4Especial  0.74  0.29  1.91 5.4e-01
+28: Con tipo de confirmación (plan inicial)                  rural  1.87  1.36  2.57 1.2e-04
+29: Con tipo de confirmación (plan inicial)                  mujer  0.92  0.71  1.18 5.1e-01
+30: Con tipo de confirmación (plan inicial)               migrante  5.74  2.25 14.65 2.5e-04
+31: Con tipo de confirmación (plan inicial)                    lab  2.42  1.74  3.36 1.4e-07
+32:        Solo confirmados por laboratorio        edad_g4-5 meses  0.67  0.29  1.50 3.3e-01
+33:        Solo confirmados por laboratorio        edad_g2-3 meses  1.93  1.07  3.46 2.8e-02
+34:        Solo confirmados por laboratorio      edad_g6-8 semanas  2.92  1.59  5.38 5.7e-04
+35:        Solo confirmados por laboratorio       edad_g<6 semanas  3.67  2.05  6.56 1.2e-05
+36:        Solo confirmados por laboratorio      periodo42014-2019  0.83  0.60  1.16 2.7e-01
+37:        Solo confirmados por laboratorio      periodo42020-2024  0.49  0.17  1.40 1.8e-01
+38:        Solo confirmados por laboratorio           periodo42025  1.22  0.73  2.02 4.4e-01
+39:        Solo confirmados por laboratorio etnia3Afrodescendiente  0.73  0.23  2.33 5.9e-01
+40:        Solo confirmados por laboratorio         etnia3Indígena  4.68  2.93  7.46 9.3e-11
+41:        Solo confirmados por laboratorio     regimen4Subsidiado  1.30  0.93  1.82 1.2e-01
+42:        Solo confirmados por laboratorio   regimen4No asegurado  0.75  0.42  1.35 3.3e-01
+43:        Solo confirmados por laboratorio       regimen4Especial  0.69  0.24  2.02 5.0e-01
+44:        Solo confirmados por laboratorio                  rural  1.63  1.15  2.31 5.7e-03
+45:        Solo confirmados por laboratorio                  mujer  0.99  0.74  1.31 9.2e-01
+46:        Solo confirmados por laboratorio               migrante  5.86  2.07 16.60 8.7e-04
+47:            Firth (sin efecto aleatorio)        edad_g4-5 meses  0.95  0.50  1.77 8.7e-01
+48:            Firth (sin efecto aleatorio)        edad_g2-3 meses  1.88  1.18  3.09 7.3e-03
+49:            Firth (sin efecto aleatorio)      edad_g6-8 semanas  2.87  1.77  4.81 1.3e-05
+50:            Firth (sin efecto aleatorio)       edad_g<6 semanas  3.01  1.89  4.97 1.3e-06
+51:            Firth (sin efecto aleatorio)      periodo42014-2019  0.98  0.72  1.31 8.8e-01
+52:            Firth (sin efecto aleatorio)      periodo42020-2024  0.91  0.40  1.80 8.0e-01
+53:            Firth (sin efecto aleatorio)           periodo42025  1.78  1.09  2.79 2.1e-02
+54:            Firth (sin efecto aleatorio) etnia3Afrodescendiente  0.83  0.31  1.78 6.6e-01
+55:            Firth (sin efecto aleatorio)         etnia3Indígena  5.10  3.41  7.57 5.4e-14
+56:            Firth (sin efecto aleatorio)     regimen4Subsidiado  1.27  0.95  1.71 1.1e-01
+57:            Firth (sin efecto aleatorio)   regimen4No asegurado  0.82  0.51  1.30 4.1e-01
+58:            Firth (sin efecto aleatorio)       regimen4Especial  0.81  0.29  1.83 6.3e-01
+59:            Firth (sin efecto aleatorio)                  rural  1.84  1.36  2.47 9.6e-05
+60:            Firth (sin efecto aleatorio)                  mujer  0.95  0.73  1.22 6.7e-01
+61:            Firth (sin efecto aleatorio)               migrante  6.46  2.40 15.15 6.6e-04
+                                     modelo                termino    or    lo    hi       p
+                                     <char>                 <char> <num> <num> <num>   <num>
+                                                       modelo           termino    or    lo    hi
+                                                       <char>            <char> <num> <num> <num>
+ 1:               Submuestra con control prenatal del periodo periodo42014-2019  1.00  0.74  1.37
+ 2:               Submuestra con control prenatal del periodo periodo42020-2024  0.87  0.40  1.88
+ 3:               Submuestra con control prenatal del periodo      periodo42025  1.72  1.07  2.76
+ 4:               Submuestra con control prenatal del periodo    etnia3Indígena  4.78  3.12  7.31
+ 5:               Submuestra con control prenatal del periodo             rural  1.93  1.40  2.66
+ 6: Submuestra + control prenatal del periodo (municipal, DE) periodo42014-2019  1.03  0.75  1.40
+ 7: Submuestra + control prenatal del periodo (municipal, DE) periodo42020-2024  0.80  0.37  1.74
+ 8: Submuestra + control prenatal del periodo (municipal, DE)      periodo42025  1.57  0.96  2.56
+ 9: Submuestra + control prenatal del periodo (municipal, DE)    etnia3Indígena  2.92  1.77  4.82
+10: Submuestra + control prenatal del periodo (municipal, DE)             rural  1.73  1.25  2.39
+11: Submuestra + control prenatal del periodo (municipal, DE)        z_cpn4_per  0.81  0.73  0.89
+12:      Control prenatal 2019-2024 (especificación de la v3) periodo42014-2019  0.97  0.71  1.32
+13:      Control prenatal 2019-2024 (especificación de la v3) periodo42020-2024  0.83  0.38  1.80
+14:      Control prenatal 2019-2024 (especificación de la v3)      periodo42025  1.63  1.00  2.64
+15:      Control prenatal 2019-2024 (especificación de la v3)    etnia3Indígena  3.14  1.90  5.20
+16:      Control prenatal 2019-2024 (especificación de la v3)             rural  1.79  1.29  2.47
+17:      Control prenatal 2019-2024 (especificación de la v3)            z_cpn4  0.84  0.76  0.93
+          termino    or    lo     hi       p
+           <char> <num> <num>  <num>   <num>
+1: etnia3Indígena  3.39  1.81   6.35 0.00014
+2:       ind_1419  1.47  0.62   3.47 0.38000
+3:       ind_2024 10.71  1.12 102.05 0.03900
+4:         ind_25  1.70  0.60   4.81 0.32000
+             termino    or    lo    hi
+              <char> <num> <num> <num>
+1: periodo42014-2019  1.00  0.73  1.37
+2: periodo42020-2024  0.83  0.36  1.90
+3:      periodo42025  1.65  1.01  2.70
+4:    etnia3Indígena  4.69  3.04  7.23
+5:             rural  1.75  1.24  2.48
+6:          migrante  5.86  2.23 15.41
+Data: cc
+Models:
+mP: muerte ~ edad_g + periodo4 + etnia3 + regimen4 + rural + mujer + migrante + (1 | dp)
+mInt: muerte ~ edad_g + periodo4 + etnia3 + regimen4 + rural + mujer + migrante + (1 | dp) + ind_1419 + ind_2024 + ind_25
+     npar    AIC    BIC  logLik -2*log(L)  Chisq Df Pr(>Chisq)  
+mP     17 2209.3 2331.5 -1087.7    2175.3                       
+mInt   20 2208.9 2352.6 -1084.4    2168.9 6.4281  3    0.09254 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+                   termino  or_crudo        lo        hi
+                    <char>     <num>     <num>     <num>
+ 1:        edad_g4-5 meses 0.8186041 0.4397883  1.523716
+ 2:        edad_g2-3 meses 1.5367621 0.9583765  2.464207
+ 3:      edad_g6-8 semanas 2.1700654 1.3349769  3.527539
+ 4:       edad_g<6 semanas 2.3691089 1.4836840  3.782933
+ 5:      periodo42014-2019 1.1403354 0.8540175  1.522644
+ 6:      periodo42020-2024 1.4356553 0.6968853  2.957597
+ 7:           periodo42025 2.6034256 1.6981425  3.991317
+ 8: etnia3Afrodescendiente 0.7626713 0.3116706  1.866290
+ 9:         etnia3Indígena 7.5466445 5.4351446 10.478441
+10:     regimen4Subsidiado 1.8716428 1.4196421  2.467556
+11:   regimen4No asegurado 1.1853280 0.7578248  1.853994
+12:       regimen4Especial 0.9350000 0.3757559  2.326577
+13:                  rural 2.8881093 2.2359262  3.730524
+14:                  mujer 0.9444595 0.7360164  1.211935
+15:               migrante 4.1218909 1.7582555  9.662978
+               nivel lactantes muertes variable                termino
+              <char>     <int>   <int>   <char>                 <char>
+ 1:        2-3 meses      3026      74   edad_g        edad_g2-3 meses
+ 2:        4-5 meses      1366      18   edad_g        edad_g4-5 meses
+ 3:       6-11 meses      1433      23   edad_g       edad_g6-11 meses
+ 4:      6-8 semanas      1755      60   edad_g      edad_g6-8 semanas
+ 5:       <6 semanas      2177      81   edad_g       edad_g<6 semanas
+ 6: Afrodescendiente       297       5   etnia3 etnia3Afrodescendiente
+ 7:         Indígena       352      51   etnia3         etnia3Indígena
+ 8:     Otro/ninguno      9108     200   etnia3     etnia3Otro/ninguno
+ 9:                0      9696     250 migrante           migrante_ref
+10:                1        61       6 migrante               migrante
+11:                0      5201     140    mujer              mujer_ref
+12:                1      4556     116    mujer                  mujer
+13:        2011-2013      6538     154 periodo4      periodo42011-2013
+14:        2014-2019      2540      68 periodo4      periodo42014-2019
+15:        2020-2024       239       8 periodo4      periodo42020-2024
+16:             2025       440      26 periodo4           periodo42025
+17:     Contributivo      4194      80 regimen4   regimen4Contributivo
+18:         Especial       280       5 regimen4       regimen4Especial
+19:     No asegurado      1154      26 regimen4   regimen4No asegurado
+20:       Subsidiado      4129     145 regimen4     regimen4Subsidiado
+21:                0      7907     155    rural              rural_ref
+22:                1      1850     101    rural                  rural
+               nivel lactantes muertes variable                termino
+              <char>     <int>   <int>   <char>                 <char>
+                                 modelo     n muertes icc_departamento p_uniformidad_KS p_dispersion       auc
+                                 <char> <int>   <int>            <num>            <num>        <num>     <num>
+1: Principal (sin tipo de confirmación)  9757     256       0.02206754        0.8782276        0.802 0.7464144
+    periodo4  murio lactantes laboratorio pct_laboratorio
+      <fctr> <lgcl>     <int>       <int>           <num>
+1: 2011-2013  FALSE      6392        3269        51.14205
+2: 2011-2013   TRUE       155         119        76.77419
+3: 2014-2019  FALSE      2525        1882        74.53465
+4: 2014-2019   TRUE        71          63        88.73239
+5: 2020-2024  FALSE       240         154        64.16667
+6: 2020-2024   TRUE         8           4        50.00000
+7:      2025  FALSE       430         421        97.90698
+8:      2025   TRUE        28          25        89.28571
+ICC departamento: 0.022  | tendencia letalidad indígena OR/periodo: 1.21  p= 0.13 
+     periodo4           etnia3 lactantes muertes         letalidad
+       <fctr>           <fctr>     <int>   <int>            <char>
+ 1: 2011-2013     Otro/ninguno      6202     137    2.2% (1.9–2.6)
+ 2: 2011-2013 Afrodescendiente       216       3    1.4% (0.3–4.0)
+ 3: 2011-2013         Indígena       129      15  11.6% (6.7–18.5)
+ 4: 2014-2019     Otro/ninguno      2420      52    2.1% (1.6–2.8)
+ 5: 2014-2019 Afrodescendiente        67       2   3.0% (0.4–10.4)
+ 6: 2014-2019         Indígena       109      17  15.6% (9.4–23.8)
+ 7: 2020-2024     Otro/ninguno       197       1    0.5% (0.0–2.8)
+ 8: 2020-2024 Afrodescendiente         9       0   0.0% (0.0–33.6)
+ 9: 2020-2024         Indígena        42       7  16.7% (7.0–31.4)
+10:      2025     Otro/ninguno       372      13    3.5% (1.9–5.9)
+11:      2025 Afrodescendiente         9       0   0.0% (0.0–33.6)
+12:      2025         Indígena        77      15 19.5% (11.3–30.1)
+    periodo4       grupo lactantes muertes         letalidad
+      <fctr>      <char>     <int>   <int>            <char>
+1: 2011-2013    Indígena       129      15  11.6% (6.7–18.5)
+2: 2011-2013 No indígena      6418     140    2.2% (1.8–2.6)
+3: 2014-2019    Indígena       109      17  15.6% (9.4–23.8)
+4: 2014-2019 No indígena      2487      54    2.2% (1.6–2.8)
+5: 2020-2024    Indígena        42       7  16.7% (7.0–31.4)
+6: 2020-2024 No indígena       206       1    0.5% (0.0–2.7)
+7:      2025    Indígena        77      15 19.5% (11.3–30.1)
+8:      2025 No indígena       381      13    3.4% (1.8–5.8)
+     periodo m_ind    py_ind m_noind   py_noind  tasa_ind tasa_noind         rr      rr_lo       rr_hi
+      <char> <int>     <num>   <int>      <num>     <num>      <num>      <num>      <num>       <num>
+1: 2011-2013    15 139455.17     140  2123659.8 10.756145 6.59239291   1.631599  0.8893973    2.784578
+2: 2014-2019    17 283527.52      54  4188233.5  5.995891 1.28932640   4.650406  2.5273369    8.146193
+3: 2020-2024     7 241422.23       1  3458036.8  2.899484 0.02891814 100.265239 12.8812235 4518.859593
+4:      2025    15  47998.72      13   669427.3 31.250831 1.94195852  16.092430  7.1431307   36.748751
+5: 2011-2025    54 712403.64     208 10439357.4  7.579973 1.99245981   3.804329  2.7661419    5.154070
+11 salida: 0

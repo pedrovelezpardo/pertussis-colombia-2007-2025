@@ -1,0 +1,337 @@
+Spherical geometry (s2) switched off
+Unidades espaciales: 1121 (MGN 2018: 1122 )
+Warning messages:
+1: In poly2nb(gj, queen = TRUE, snap = 1e-04) :
+  some observations have no neighbours;
+if this seems unexpected, try increasing the snap argument.
+2: In poly2nb(gj, queen = TRUE, snap = 1e-04) :
+  neighbour object has 3 sub-graphs;
+if this sub-graph count seems unexpected, try increasing the snap argument.
+New names:
+• `` -> `...1`
+• `` -> `...2`
+• `` -> `...3`
+• `` -> `...4`
+• `` -> `...5`
+• `` -> `...6`
+• `` -> `...7`
+• `` -> `...8`
+• `` -> `...9`
+• `` -> `...10`
+• `` -> `...11`
+• `` -> `...12`
+• `` -> `...13`
+A lista: modelos BYM2 principales
+
+
+	***[0] thread_num[0] warning *** iterative process seems to diverge, 'vb.correction' is aborted
+	*** Please (re-)consider your model, priors, confounding, etc.
+A1 lista: modelo conjunto del CPN
+Warning messages:
+1: In glm.nb(as.formula(paste("O ~", paste(covs, collapse = " + "),  :
+  alternation limit reached
+2: In glm.nb(as.formula(paste("O ~", paste(covs, collapse = " + "),  :
+  alternation limit reached
+3: In glm.nb(as.formula(paste("O ~", paste(covs, collapse = " + "),  :
+  alternation limit reached
+A2 lista: sensibilidades del CPN
+B lista: modelo de cambio
+The default for subtract_mean_in_numerator set TRUE from February 2016
+The default for subtract_mean_in_numerator set TRUE from February 2016
+C lista: Moran y Kulldorff
+           variable faltantes
+             <char>     <int>
+ 1:             ipm         0
+ 2:         p_rural         0
+ 3:           p_ind         0
+ 4:          p_afro         0
+ 5:        log_dens         0
+ 6:      penta_1519        20
+ 7:      penta_0810        20
+ 8:       cpn4_1924        19
+ 9:       cpn4_0810        20
+10: subsidiado_1924        19
+             ipm p_rural p_ind p_afro log_dens penta_1519 cpn4_1924
+ipm         1.00    0.54  0.45   0.27    -0.64      -0.35     -0.54
+p_rural     0.54    1.00  0.33   0.00    -0.51      -0.23     -0.20
+p_ind       0.45    0.33  1.00   0.02    -0.35      -0.15     -0.44
+p_afro      0.27    0.00  0.02   1.00    -0.04      -0.18     -0.30
+log_dens   -0.64   -0.51 -0.35  -0.04     1.00       0.29      0.53
+penta_1519 -0.35   -0.23 -0.15  -0.18     0.29       1.00      0.28
+cpn4_1924  -0.54   -0.20 -0.44  -0.30     0.53       0.28      1.00
+                              modelo      termino    rr    lo    hi
+                              <char>       <char> <num> <num> <num>
+ 1:            2025 todas las edades        z_ipm  0.88  0.60  1.30
+ 2:            2025 todas las edades    z_p_rural  0.70  0.55  0.90
+ 3:            2025 todas las edades      z_p_ind  0.94  0.70  1.25
+ 4:            2025 todas las edades     z_p_afro  0.79  0.64  0.97
+ 5:            2025 todas las edades   z_log_dens  1.17  0.89  1.54
+ 6:            2025 todas las edades z_penta_1519  1.07  0.88  1.30
+ 7:            2025 todas las edades  z_cpn4_1924  0.63  0.48  0.81
+ 8:                      2025 <1 año        z_ipm  1.03  0.67  1.60
+ 9:                      2025 <1 año    z_p_rural  0.78  0.59  1.05
+10:                      2025 <1 año      z_p_ind  0.90  0.65  1.26
+11:                      2025 <1 año     z_p_afro  0.82  0.66  1.03
+12:                      2025 <1 año   z_log_dens  1.23  0.91  1.66
+13:                      2025 <1 año z_penta_1519  1.16  0.92  1.46
+14:                      2025 <1 año  z_cpn4_1924  0.63  0.47  0.84
+15: 2025 10+ años (control negativo)        z_ipm  0.79  0.48  1.29
+16: 2025 10+ años (control negativo)    z_p_rural  0.70  0.50  0.96
+17: 2025 10+ años (control negativo)      z_p_ind  0.98  0.66  1.44
+18: 2025 10+ años (control negativo)     z_p_afro  0.71  0.51  0.98
+19: 2025 10+ años (control negativo)   z_log_dens  1.00  0.73  1.39
+20: 2025 10+ años (control negativo) z_penta_1519  0.89  0.68  1.16
+21: 2025 10+ años (control negativo)  z_cpn4_1924  0.83  0.57  1.19
+22:       2011-2013 todas las edades        z_ipm  0.90  0.73  1.10
+23:       2011-2013 todas las edades    z_p_rural  0.79  0.69  0.90
+24:       2011-2013 todas las edades      z_p_ind  1.09  0.95  1.24
+25:       2011-2013 todas las edades     z_p_afro  0.81  0.71  0.91
+26:       2011-2013 todas las edades   z_log_dens  1.16  0.99  1.36
+27:       2011-2013 todas las edades z_penta_0810  1.03  0.93  1.15
+28:       2011-2013 todas las edades  z_cpn4_0810  0.97  0.84  1.12
+29:                 2011-2013 <1 año        z_ipm  0.91  0.76  1.09
+30:                 2011-2013 <1 año    z_p_rural  0.83  0.73  0.93
+31:                 2011-2013 <1 año      z_p_ind  1.03  0.91  1.16
+32:                 2011-2013 <1 año     z_p_afro  0.81  0.73  0.91
+33:                 2011-2013 <1 año   z_log_dens  1.20  1.04  1.37
+34:                 2011-2013 <1 año z_penta_0810  1.04  0.95  1.14
+35:                 2011-2013 <1 año  z_cpn4_0810  0.97  0.85  1.11
+                              modelo      termino    rr    lo    hi
+                              <char>       <char> <num> <num> <num>
+                                                 modelo                              termino    rr    lo    hi
+                                                 <char>                               <char> <num> <num> <num>
+ 1:                                       Conjunto 2025                            CPN, <2 m  0.67  0.48  0.91
+ 2:                                       Conjunto 2025                           CPN, 2-5 m  0.56  0.42  0.73
+ 3:                                       Conjunto 2025                          CPN, 6-11 m  0.54  0.40  0.72
+ 4:                                       Conjunto 2025                           CPN, 1-9 a  0.66  0.49  0.87
+ 5:                                       Conjunto 2025                           CPN, 10+ a  0.83  0.61  1.13
+ 6:                                       Conjunto 2025  Razón de pendientes, <2 m vs 6-11 m  1.23  0.95  1.59
+ 7:                                       Conjunto 2025   Razón de pendientes, <2 m vs 10+ a  0.80  0.60  1.06
+ 8:                                       Conjunto 2025 Razón de pendientes, 6-11 m vs 10+ a  0.65  0.51  0.84
+ 9:                                       Conjunto 2025 Razón de pendientes, 2-5 m vs 6-11 m  1.03  0.85  1.25
+10:                                       Conjunto 2025   Razón de pendientes, <2 m vs 1-9 a  1.01  0.79  1.30
+11:                                  Conjunto 2011-2013                            CPN, <2 m  1.02  0.86  1.20
+12:                                  Conjunto 2011-2013                           CPN, 2-5 m  1.00  0.84  1.18
+13:                                  Conjunto 2011-2013                          CPN, 6-11 m  0.91  0.75  1.10
+14:                                  Conjunto 2011-2013                           CPN, 1-9 a  0.92  0.77  1.10
+15:                                  Conjunto 2011-2013                           CPN, 10+ a  0.96  0.79  1.17
+16:                                  Conjunto 2011-2013  Razón de pendientes, <2 m vs 6-11 m  1.12  0.95  1.32
+17:                                  Conjunto 2011-2013   Razón de pendientes, <2 m vs 10+ a  1.06  0.89  1.27
+18:                                  Conjunto 2011-2013 Razón de pendientes, 6-11 m vs 10+ a  0.95  0.78  1.15
+19:                                  Conjunto 2011-2013 Razón de pendientes, 2-5 m vs 6-11 m  1.10  0.93  1.30
+20:                                  Conjunto 2011-2013   Razón de pendientes, <2 m vs 1-9 a  1.11  0.95  1.29
+21:                Conjunto 2025, covariables por grupo                            CPN, <2 m  0.46  0.28  0.76
+22:                Conjunto 2025, covariables por grupo                           CPN, 2-5 m  0.54  0.38  0.78
+23:                Conjunto 2025, covariables por grupo                          CPN, 6-11 m  0.57  0.37  0.87
+24:                Conjunto 2025, covariables por grupo                           CPN, 1-9 a  0.65  0.46  0.91
+25:                Conjunto 2025, covariables por grupo                           CPN, 10+ a  0.87  0.61  1.23
+26:                Conjunto 2025, covariables por grupo  Razón de pendientes, <2 m vs 6-11 m  0.81  0.45  1.44
+27:                Conjunto 2025, covariables por grupo   Razón de pendientes, <2 m vs 10+ a  0.53  0.31  0.90
+28:                Conjunto 2025, covariables por grupo Razón de pendientes, 6-11 m vs 10+ a  0.65  0.41  1.04
+29:                Conjunto 2025, covariables por grupo Razón de pendientes, 2-5 m vs 6-11 m  0.96  0.61  1.50
+30:                Conjunto 2025, covariables por grupo   Razón de pendientes, <2 m vs 1-9 a  0.71  0.42  1.19
+31:                        Conjunto 2025, sin Antioquia                            CPN, <2 m  0.70  0.49  0.98
+32:                        Conjunto 2025, sin Antioquia                           CPN, 2-5 m  0.56  0.42  0.75
+33:                        Conjunto 2025, sin Antioquia                          CPN, 6-11 m  0.54  0.40  0.73
+34:                        Conjunto 2025, sin Antioquia                           CPN, 1-9 a  0.65  0.48  0.88
+35:                        Conjunto 2025, sin Antioquia                           CPN, 10+ a  0.71  0.52  0.96
+36:                        Conjunto 2025, sin Antioquia  Razón de pendientes, <2 m vs 6-11 m  1.28  0.97  1.70
+37:                        Conjunto 2025, sin Antioquia   Razón de pendientes, <2 m vs 10+ a  0.99  0.74  1.32
+38:                        Conjunto 2025, sin Antioquia Razón de pendientes, 6-11 m vs 10+ a  0.77  0.60  0.99
+39:                        Conjunto 2025, sin Antioquia Razón de pendientes, 2-5 m vs 6-11 m  1.04  0.84  1.28
+40:                        Conjunto 2025, sin Antioquia   Razón de pendientes, <2 m vs 1-9 a  1.07  0.81  1.41
+41: 2025 frente a 2011-2013 (diferencia de diferencias) Razón de pendientes, 2-5 m vs 6-11 m  0.94  0.73  1.22
+42: 2025 frente a 2011-2013 (diferencia de diferencias) Razón de pendientes, 6-11 m vs 10+ a  0.69  0.50  0.95
+43: 2025 frente a 2011-2013 (diferencia de diferencias)   Razón de pendientes, <2 m vs 1-9 a  0.91  0.68  1.22
+44: 2025 frente a 2011-2013 (diferencia de diferencias)   Razón de pendientes, <2 m vs 10+ a  0.75  0.54  1.05
+45: 2025 frente a 2011-2013 (diferencia de diferencias)  Razón de pendientes, <2 m vs 6-11 m  1.10  0.81  1.49
+                                                 modelo                              termino    rr    lo    hi
+                                                 <char>                               <char> <num> <num> <num>
+                                               analisis                           modelo     termino    rr    lo    hi
+                                                 <char>                           <char>      <char> <num> <num> <num>
+ 1:                                  Previa: prec U=0.5            2025 todas las edades z_cpn4_1924  0.64  0.49  0.81
+ 2:                                  Previa: prec U=0.5                      2025 <1 año z_cpn4_1924  0.63  0.48  0.83
+ 3:                                  Previa: prec U=0.5 2025 10+ años (control negativo) z_cpn4_1924  0.84  0.58  1.20
+ 4:                                  Previa: prec U=0.5                 2011-2013 <1 año z_cpn4_0810  0.97  0.85  1.11
+ 5:                                    Previa: prec U=2            2025 todas las edades z_cpn4_1924  0.62  0.48  0.80
+ 6:                                    Previa: prec U=2                      2025 <1 año z_cpn4_1924  0.63  0.47  0.84
+ 7:                                    Previa: prec U=2 2025 10+ años (control negativo) z_cpn4_1924  0.82  0.56  1.18
+ 8:                                    Previa: prec U=2                 2011-2013 <1 año z_cpn4_0810  0.97  0.85  1.11
+ 9:                             Previa: phi mediana 0.5            2025 todas las edades z_cpn4_1924  0.63  0.48  0.81
+10:                             Previa: phi mediana 0.5                      2025 <1 año z_cpn4_1924  0.63  0.47  0.84
+11:                             Previa: phi mediana 0.5 2025 10+ años (control negativo) z_cpn4_1924  0.82  0.57  1.19
+12:                             Previa: phi mediana 0.5                 2011-2013 <1 año z_cpn4_0810  0.97  0.85  1.11
+13:                                       Sin Antioquia            2025 todas las edades z_cpn4_1924  0.61  0.47  0.80
+14:                                       Sin Antioquia                      2025 <1 año z_cpn4_1924  0.55  0.41  0.75
+15:                                       Sin Antioquia 2025 10+ años (control negativo) z_cpn4_1924  0.89  0.62  1.26
+16:                                       Sin Antioquia                 2011-2013 <1 año z_cpn4_0810  0.98  0.86  1.13
+17: Binomial negativa con efectos fijos de departamento            2025 todas las edades z_cpn4_1924  0.55  0.43  0.71
+18: Binomial negativa con efectos fijos de departamento                      2025 <1 año z_cpn4_1924  0.52  0.39  0.70
+19: Binomial negativa con efectos fijos de departamento 2025 10+ años (control negativo) z_cpn4_1924  0.78  0.49  1.21
+20: Binomial negativa con efectos fijos de departamento                 2011-2013 <1 año z_cpn4_0810  0.90  0.79  1.03
+21:            BYM2 con verosimilitud binomial negativa            2025 todas las edades z_cpn4_1924  0.63  0.48  0.81
+22:            BYM2 con verosimilitud binomial negativa                      2025 <1 año z_cpn4_1924  0.63  0.47  0.84
+23:            BYM2 con verosimilitud binomial negativa 2025 10+ años (control negativo) z_cpn4_1924  0.83  0.57  1.19
+24:            BYM2 con verosimilitud binomial negativa                 2011-2013 <1 año z_cpn4_0810  0.97  0.85  1.11
+                                               analisis                           modelo     termino    rr    lo    hi
+                                                 <char>                           <char>      <char> <num> <num> <num>
+                                               analisis             modelo                              termino    rr    lo    hi
+                                                 <char>             <char>                               <char> <num> <num> <num>
+ 1:                                  Previa: prec U=0.5      Conjunto 2025                            CPN, <2 m  0.67  0.49  0.92
+ 2:                                  Previa: prec U=0.5      Conjunto 2025                          CPN, 6-11 m  0.55  0.41  0.73
+ 3:                                  Previa: prec U=0.5      Conjunto 2025                           CPN, 10+ a  0.84  0.62  1.14
+ 4:                                  Previa: prec U=0.5      Conjunto 2025  Razón de pendientes, <2 m vs 6-11 m  1.23  0.95  1.59
+ 5:                                  Previa: prec U=0.5      Conjunto 2025   Razón de pendientes, <2 m vs 10+ a  0.80  0.60  1.06
+ 6:                                  Previa: prec U=0.5      Conjunto 2025 Razón de pendientes, 6-11 m vs 10+ a  0.65  0.51  0.84
+ 7:                                  Previa: prec U=0.5      Conjunto 2025 Razón de pendientes, 2-5 m vs 6-11 m  1.03  0.85  1.26
+ 8:                                  Previa: prec U=0.5      Conjunto 2025   Razón de pendientes, <2 m vs 1-9 a  1.01  0.79  1.30
+ 9:                                    Previa: prec U=2      Conjunto 2025                            CPN, <2 m  0.66  0.48  0.91
+10:                                    Previa: prec U=2      Conjunto 2025                          CPN, 6-11 m  0.54  0.40  0.72
+11:                                    Previa: prec U=2      Conjunto 2025                           CPN, 10+ a  0.83  0.60  1.13
+12:                                    Previa: prec U=2      Conjunto 2025  Razón de pendientes, <2 m vs 6-11 m  1.23  0.95  1.59
+13:                                    Previa: prec U=2      Conjunto 2025   Razón de pendientes, <2 m vs 10+ a  0.80  0.60  1.06
+14:                                    Previa: prec U=2      Conjunto 2025 Razón de pendientes, 6-11 m vs 10+ a  0.65  0.51  0.84
+15:                                    Previa: prec U=2      Conjunto 2025 Razón de pendientes, 2-5 m vs 6-11 m  1.03  0.85  1.25
+16:                                    Previa: prec U=2      Conjunto 2025   Razón de pendientes, <2 m vs 1-9 a  1.01  0.79  1.30
+17:                             Previa: phi mediana 0.5      Conjunto 2025                            CPN, <2 m  0.66  0.48  0.91
+18:                             Previa: phi mediana 0.5      Conjunto 2025                          CPN, 6-11 m  0.54  0.40  0.72
+19:                             Previa: phi mediana 0.5      Conjunto 2025                           CPN, 10+ a  0.83  0.61  1.13
+20:                             Previa: phi mediana 0.5      Conjunto 2025  Razón de pendientes, <2 m vs 6-11 m  1.23  0.95  1.59
+21:                             Previa: phi mediana 0.5      Conjunto 2025   Razón de pendientes, <2 m vs 10+ a  0.80  0.60  1.06
+22:                             Previa: phi mediana 0.5      Conjunto 2025 Razón de pendientes, 6-11 m vs 10+ a  0.65  0.51  0.84
+23:                             Previa: phi mediana 0.5      Conjunto 2025 Razón de pendientes, 2-5 m vs 6-11 m  1.03  0.85  1.25
+24:                             Previa: phi mediana 0.5      Conjunto 2025   Razón de pendientes, <2 m vs 1-9 a  1.01  0.79  1.30
+25: Binomial negativa con efectos fijos de departamento      Conjunto 2025                            CPN, <2 m  0.59  0.44  0.78
+26: Binomial negativa con efectos fijos de departamento      Conjunto 2025                           CPN, 2-5 m  0.49  0.39  0.61
+27: Binomial negativa con efectos fijos de departamento      Conjunto 2025                          CPN, 6-11 m  0.48  0.37  0.61
+28: Binomial negativa con efectos fijos de departamento      Conjunto 2025                           CPN, 1-9 a  0.58  0.46  0.74
+29: Binomial negativa con efectos fijos de departamento      Conjunto 2025                           CPN, 10+ a  0.70  0.53  0.90
+30: Binomial negativa con efectos fijos de departamento      Conjunto 2025  Razón de pendientes, <2 m vs 6-11 m  1.23  0.93  1.63
+31: Binomial negativa con efectos fijos de departamento      Conjunto 2025   Razón de pendientes, <2 m vs 10+ a  0.85  0.63  1.14
+32: Binomial negativa con efectos fijos de departamento      Conjunto 2025 Razón de pendientes, 6-11 m vs 10+ a  0.69  0.53  0.89
+33: Binomial negativa con efectos fijos de departamento      Conjunto 2025 Razón de pendientes, 2-5 m vs 6-11 m  1.02  0.81  1.28
+34: Binomial negativa con efectos fijos de departamento      Conjunto 2025   Razón de pendientes, <2 m vs 1-9 a  1.01  0.78  1.33
+35: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013                            CPN, <2 m  0.93  0.80  1.08
+36: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013                           CPN, 2-5 m  0.94  0.80  1.09
+37: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013                          CPN, 6-11 m  0.82  0.69  0.98
+38: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013                           CPN, 1-9 a  0.91  0.78  1.07
+39: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013                           CPN, 10+ a  0.93  0.77  1.11
+40: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013  Razón de pendientes, <2 m vs 6-11 m  1.13  0.93  1.37
+41: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013   Razón de pendientes, <2 m vs 10+ a  1.00  0.82  1.22
+42: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013 Razón de pendientes, 6-11 m vs 10+ a  0.89  0.71  1.10
+43: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013 Razón de pendientes, 2-5 m vs 6-11 m  1.14  0.94  1.38
+44: Binomial negativa con efectos fijos de departamento Conjunto 2011-2013   Razón de pendientes, <2 m vs 1-9 a  1.02  0.86  1.21
+                                               analisis             modelo                              termino    rr    lo    hi
+                                                 <char>             <char>                               <char> <num> <num> <num>
+                             modelo unidades casos      WAIC       DIC       pD
+                             <char>    <int> <int>     <num>     <num>    <num>
+1:            2025 todas las edades     1121  1192 1739.5304 1343.8442 262.0627
+2:                      2025 <1 año     1121   445  867.7498  832.3775 149.6003
+3: 2025 10+ años (control negativo)     1121   451  809.1707  735.5990 131.6085
+4:       2011-2013 todas las edades     1121 10473 3216.9396 3191.1337 492.6270
+5:                 2011-2013 <1 año     1121  6519 2808.9051 2826.5914 336.3356
+                              modelo estadistico observado replicado_mediana replicado_p2.5 replicado_p97.5 p_predictivo
+                              <char>      <char>     <num>             <num>          <num>           <num>        <num>
+ 1:            2025 todas las edades       ceros  939.0000          900.0000       874.4750         922.525        0.000
+ 2:            2025 todas las edades      maximo  320.0000          423.5000       342.9500         585.100        0.998
+ 3:            2025 todas las edades     pearson  751.1465         1029.5520       652.0802        2151.995        0.792
+ 4:                      2025 <1 año       ceros 1001.0000          981.0000       958.0000        1001.525        0.032
+ 5:                      2025 <1 año      maximo  130.0000          138.5000       106.4750         215.525        0.704
+ 6:                      2025 <1 año     pearson 1000.6951          948.2807       590.3897        2119.194        0.430
+ 7: 2025 10+ años (control negativo)       ceros 1023.0000         1006.0000       984.4750        1024.000        0.040
+ 8: 2025 10+ años (control negativo)      maximo  108.0000          119.0000        85.4750         199.050        0.730
+ 9: 2025 10+ años (control negativo)     pearson  961.6164          999.1582       548.4843        2177.565        0.524
+10:       2011-2013 todas las edades       ceros  553.0000          542.0000       514.4750         569.525        0.248
+11:       2011-2013 todas las edades      maximo 2804.0000         2946.5000      2778.0000        3123.000        0.952
+12:       2011-2013 todas las edades     pearson  971.8536         1110.3664       967.7920        1327.748        0.916
+13:                 2011-2013 <1 año       ceros  593.0000          582.0000       551.4750         613.000        0.244
+14:                 2011-2013 <1 año      maximo 1946.0000         1942.0000      1820.0000        2080.525        0.468
+15:                 2011-2013 <1 año     pearson 1057.7712         1112.9458       947.3575        1321.198        0.682
+            termino    rr    lo    hi
+             <char> <num> <num> <num>
+1:      (Intercept)  0.47  0.42  0.53
+2:              per  0.25  0.17  0.34
+3:        z_ipm_x25  0.86  0.58  1.28
+4:    z_p_rural_x25  0.80  0.62  1.03
+5:      z_p_ind_x25  0.91  0.67  1.23
+6:     z_p_afro_x25  0.84  0.68  1.04
+7:   z_log_dens_x25  1.09  0.82  1.44
+8: z_penta_1519_x25  1.00  0.81  1.24
+9:  z_cpn4_1924_x25  0.67  0.52  0.87
+     periodo          I     p
+      <char>      <num> <num>
+1:      2025 0.07216142 0.008
+2: 2011-2013 0.05686381 0.011
+   cluster n_municipios observados esperados    smr     p                                                              municipios
+     <int>        <int>      <int>     <num>  <num> <num>                                                                  <char>
+1:       1           54        293      98.7   2.97 0.001 05209 05809 05642 05059 05093 05861 05030 05036 05792 05347 05101 05576
+2:       2            7         36       7.6   4.76 0.001                               05480 05172 05234 05147 05842 05475 23807
+3:       3            6         58      29.7   1.95 0.008                                     13836 13683 13001 13873 13838 13647
+4:       4            1          3       0.0 102.19 0.010                                                                   97889
+5:       5            1         10       1.7   5.87 0.048                                                                   50568
+   cluster
+     <int>
+1:       1
+2:       2
+3:       3
+4:       4
+5:       5
+                                                                                                                                                                                                                                                                                                                              unidades
+                                                                                                                                                                                                                                                                                                                                <char>
+1: 05209 05809 05642 05059 05093 05861 05030 05036 05792 05347 05101 05576 05044 05353 05380 05129 05282 05240 05631 05360 05368 05091 05001 05679 05266 05125 27245 05607 05467 05656 05789 05390 05088 05034 05847 05376 05042 05856 05761 05364 05212 05615 05318 05664 05002 05308 05400 05501 05145 05004 05306 05440 05674 27073
+2:                                                                                                                                                                                                                                                                                           05480 05172 05234 05147 05842 05475 23807
+3:                                                                                                                                                                                                                                                                                                 13836 13683 13001 13873 13838 13647
+4:                                                                                                                                                                                                                                                                                                                               97889
+5:                                                                                                                                                                                                                                                                                                                               50568
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                nombres
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <char>
+1: CONCORDIA; TITIRIBÍ; SALGAR; ARMENIA; BETULIA; VENECIA; AMAGÁ; ANGELÓPOLIS; TARSO; HELICONIA; CIUDAD BOLÍVAR; PUEBLORRICO; ANZÁ; HISPANIA; LA ESTRELLA; CALDAS; FREDONIA; EBÉJICO; SABANETA; ITAGÜÍ; JERICÓ; BETANIA; MEDELLÍN; SANTA BÁRBARA; ENVIGADO; CAICEDO; EL CARMEN DE ATRATO; RETIRO; MONTEBELLO; SAN JERÓNIMO; TÁMESIS; LA PINTADA; BELLO; ANDES; URRAO; LA CEJA; SANTA FÉ DE ANTIOQUIA; VALPARAÍSO; SOPETRÁN; JARDÍN; COPACABANA; RIONEGRO; GUARNE; SAN PEDRO DE LOS MILAGROS; ABEJORRAL; GIRARDOTA; LA UNIÓN; OLAYA; CARAMANTA; ABRIAQUÍ; GIRALDO; MARINILLA; SAN VICENTE FERRER; BAGADÓ
+2:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      MUTATÁ; CHIGORODÓ; DABEIBA; CAREPA; URAMITA; MURINDÓ; TIERRALTA
+3:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        TURBACO; SANTA ROSA; CARTAGENA DE INDIAS; VILLANUEVA; TURBANÁ; SAN ESTANISLAO
+4:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             YAVARATÉ
+5:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        PUERTO GAITÁN
+    p_indigena
+         <num>
+1: 0.003791483
+2: 0.094327480
+3: 0.001567318
+4: 0.917786561
+5: 0.317355266
+   cluster n_municipios observados esperados    smr     p                                                              municipios
+     <int>        <int>      <int>     <num>  <num> <num>                                                                  <char>
+1:       1           90        337     123.4   2.73 0.001 05284 05004 05842 05234 05138 05847 05306 05475 05125 05873 05113 05042
+2:       2           44        396     211.0   1.88 0.001 25181 25841 25377 25279 25151 25178 25322 25372 25594 25281 50686 25214
+3:       3            6         58      29.7   1.95 0.006                                     13836 13683 13001 13873 13838 13647
+4:       4            1          3       0.0 102.19 0.011                                                                   97889
+5:       5            1         10       1.7   5.87 0.038                                                                   50568
+   quintil unidades ipm_min ipm_max pob_2018  prop_pob ridit_medio
+     <int>    <int>   <num>   <num>    <num>     <num>       <num>
+1:       1       22     4.5    10.9  9467652 0.1961862  0.09809311
+2:       2       33    11.0    14.7  9317500 0.1930748  0.29272364
+3:       3      139    14.8    25.7 10097283 0.2092333  0.49387769
+4:       4      419    25.7    42.5  9697311 0.2009452  0.69896691
+5:       5      508    42.5    98.5  9678748 0.2005605  0.89971975
+6:      NA        0      NA      NA       NA        NA          NA
+      periodo quintil     O   sir mort_inf_100k mort_lo mort_hi letalidad   RII_incidencia RII_mortalidad_infantil SII_mortalidad_infantil
+       <char>   <int> <int> <num>         <num>   <num>   <num>     <num>           <char>                  <char>                  <char>
+ 1: 2011-2013       1  3446  1.92         15.64   11.88   20.22     0.025 0.10 (0.06–0.17)        0.22 (0.12–0.40)   -12.09 (-17.16–-7.59)
+ 2: 2011-2013       2  3999  2.36          8.61    5.81   12.29     0.014 0.10 (0.06–0.17)        0.22 (0.12–0.40)   -12.09 (-17.16–-7.59)
+ 3: 2011-2013       3   928  0.44          2.22    1.06    4.08     0.014 0.10 (0.06–0.17)        0.22 (0.12–0.40)   -12.09 (-17.16–-7.59)
+ 4: 2011-2013       4  1319  0.59          4.69    2.98    7.04     0.027 0.10 (0.06–0.17)        0.22 (0.12–0.40)   -12.09 (-17.16–-7.59)
+ 5: 2011-2013       5   781  0.29          5.31    3.63    7.49     0.060 0.10 (0.06–0.17)        0.22 (0.12–0.40)   -12.09 (-17.16–-7.59)
+ 6: 2014-2019       1   665  1.15          1.39    0.67    2.56     0.020 0.53 (0.33–0.84)        2.75 (1.21–6.23)       1.35 (-0.04–2.67)
+ 7: 2014-2019       2  1108  1.98          0.86    0.32    1.87     0.008 0.53 (0.33–0.84)        2.75 (1.21–6.23)       1.35 (-0.04–2.67)
+ 8: 2014-2019       3   501  0.71          1.34    0.69    2.34     0.030 0.53 (0.33–0.84)        2.75 (1.21–6.23)       1.35 (-0.04–2.67)
+ 9: 2014-2019       4   604  0.80          1.13    0.57    2.03     0.023 0.53 (0.33–0.84)        2.75 (1.21–6.23)       1.35 (-0.04–2.67)
+10: 2014-2019       5   571  0.63          2.61    1.77    3.70     0.082 0.53 (0.33–0.84)        2.75 (1.21–6.23)       1.35 (-0.04–2.67)
+11:      2025       1   438  2.12          5.37    1.97   11.69     0.037 0.45 (0.21–0.97)       8.87 (1.67–46.96)      4.77 (-2.14–10.60)
+12:      2025       2   260  1.31          0.00    0.00    3.45     0.000 0.45 (0.21–0.97)       8.87 (1.67–46.96)      4.77 (-2.14–10.60)
+13:      2025       3   180  0.74          0.00    0.00    2.61     0.000 0.45 (0.21–0.97)       8.87 (1.67–46.96)      4.77 (-2.14–10.60)
+14:      2025       4   113  0.44          1.87    0.39    5.46     0.067 0.45 (0.21–0.97)       8.87 (1.67–46.96)      4.77 (-2.14–10.60)
+15:      2025       5   201  0.67          9.11    5.40   14.40     0.175 0.45 (0.21–0.97)       8.87 (1.67–46.96)      4.77 (-2.14–10.60)
+2025 todas las edades WAIC: 1739.5  municipios P(RR>1)>0.95: 42 
+2025 <1 año WAIC: 867.7  municipios P(RR>1)>0.95: 19 
+2025 10+ años (control negativo) WAIC: 809.2  municipios P(RR>1)>0.95: 20 
+2011-2013 todas las edades WAIC: 3216.9  municipios P(RR>1)>0.95: 42 
+2011-2013 <1 año WAIC: 2808.9  municipios P(RR>1)>0.95: 32 
+12 salida: 0

@@ -1,0 +1,23 @@
+Spherical geometry (s2) switched off
+Warning messages:
+1: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+2: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+3: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+4: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+5: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+6: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+7: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+8: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+9: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+10: In scale_y_log10(labels = label_number(drop0trailing = TRUE), breaks = c(0.01,  :
+  log-10 transformation introduced infinite values.
+Figuras generadas en 04_figuras/

@@ -1,0 +1,23 @@
+nivel,lactantes,muertes,variable,termino
+2-3 meses,3026,74,edad_g,edad_g2-3 meses
+4-5 meses,1366,18,edad_g,edad_g4-5 meses
+6-11 meses,1433,23,edad_g,edad_g6-11 meses
+6-8 semanas,1755,60,edad_g,edad_g6-8 semanas
+<6 semanas,2177,81,edad_g,edad_g<6 semanas
+Afrodescendiente,297,5,etnia3,etnia3Afrodescendiente
+Indígena,352,51,etnia3,etnia3Indígena
+Otro/ninguno,9108,200,etnia3,etnia3Otro/ninguno
+0,9696,250,migrante,migrante_ref
+1,61,6,migrante,migrante
+0,5201,140,mujer,mujer_ref
+1,4556,116,mujer,mujer
+2011-2013,6538,154,periodo4,periodo42011-2013
+2014-2019,2540,68,periodo4,periodo42014-2019
+2020-2024,239,8,periodo4,periodo42020-2024
+2025,440,26,periodo4,periodo42025
+Contributivo,4194,80,regimen4,regimen4Contributivo
+Especial,280,5,regimen4,regimen4Especial
+No asegurado,1154,26,regimen4,regimen4No asegurado
+Subsidiado,4129,145,regimen4,regimen4Subsidiado
+0,7907,155,rural,rural_ref
+1,1850,101,rural,rural
