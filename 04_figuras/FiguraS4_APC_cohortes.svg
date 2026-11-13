@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='510.24pt' height='240.94pt' viewBox='0 0 510.24 240.94'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTAuMjR8MC4wMHwyNDAuOTQ='>
+    <rect x='0.00' y='0.00' width='510.24' height='240.94' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTAuMjR8MC4wMHwyNDAuOTQ=)'>
+<rect x='-0.000000000000064' y='0.00' width='510.24' height='240.94' style='stroke-width: 0.78; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzguNzR8NTA0LjI2fDE0Ljg2fDIxNC41Ng=='>
+    <rect x='38.74' y='14.86' width='465.52' height='199.70' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzguNzR8NTA0LjI2fDE0Ljg2fDIxNC41Ng==)'>
+<rect x='38.74' y='14.86' width='465.52' height='199.70' style='stroke-width: 0.78; stroke: none; fill: #FFFFFF;' />
+<polyline points='38.74,164.46 504.26,164.46 ' style='stroke-width: 0.53; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='38.74,126.76 504.26,126.76 ' style='stroke-width: 0.53; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='38.74,86.79 504.26,86.79 ' style='stroke-width: 0.53; stroke: #D9D9D9; stroke-linecap: butt;' />
+<rect x='408.75' y='14.86' width='45.75' height='199.70' style='stroke-width: 0.78; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #EFEFEF;' />
+<line x1='38.74' y1='86.79' x2='504.26' y2='86.79' style='stroke-width: 0.64; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='59.90,34.75 71.34,49.98 82.77,62.82 94.21,71.59 105.65,78.44 117.09,80.75 128.52,80.56 139.96,79.05 151.40,78.24 162.84,75.72 174.28,73.60 185.71,70.98 197.15,68.46 208.59,65.80 220.03,62.94 231.47,61.47 242.90,60.20 254.34,58.77 265.78,56.75 277.22,55.39 288.65,54.15 300.09,52.59 311.53,50.80 322.97,48.48 334.41,46.45 345.84,43.74 357.28,40.63 368.72,38.10 380.16,36.85 391.60,37.34 403.03,42.26 414.47,51.54 425.91,63.98 437.35,77.69 448.79,91.79 460.22,100.74 471.66,106.79 483.10,111.24 483.10,208.81 471.66,178.71 460.22,151.01 448.79,129.08 437.35,112.28 425.91,100.15 414.47,91.45 403.03,85.40 391.60,80.78 380.16,78.12 368.72,76.41 357.28,76.42 345.84,77.85 334.41,79.79 322.97,82.38 311.53,83.99 300.09,85.56 288.65,87.09 277.22,89.79 265.78,93.89 254.34,97.96 242.90,101.88 231.47,105.39 220.03,108.05 208.59,112.21 197.15,115.91 185.71,119.06 174.28,121.90 162.84,123.82 151.40,123.20 139.96,120.68 128.52,116.73 117.09,112.85 105.65,112.90 94.21,117.33 82.77,125.97 71.34,136.59 59.90,151.24 ' style='stroke-width: 0.00; stroke: none; stroke-linecap: butt; fill: #DFEAFD;' />
+<polyline points='59.90,34.75 71.34,49.98 82.77,62.82 94.21,71.59 105.65,78.44 117.09,80.75 128.52,80.56 139.96,79.05 151.40,78.24 162.84,75.72 174.28,73.60 185.71,70.98 197.15,68.46 208.59,65.80 220.03,62.94 231.47,61.47 242.90,60.20 254.34,58.77 265.78,56.75 277.22,55.39 288.65,54.15 300.09,52.59 311.53,50.80 322.97,48.48 334.41,46.45 345.84,43.74 357.28,40.63 368.72,38.10 380.16,36.85 391.60,37.34 403.03,42.26 414.47,51.54 425.91,63.98 437.35,77.69 448.79,91.79 460.22,100.74 471.66,106.79 483.10,111.24 ' style='stroke-width: 0.78; stroke: none; stroke-linecap: butt;' />
+<polyline points='483.10,208.81 471.66,178.71 460.22,151.01 448.79,129.08 437.35,112.28 425.91,100.15 414.47,91.45 403.03,85.40 391.60,80.78 380.16,78.12 368.72,76.41 357.28,76.42 345.84,77.85 334.41,79.79 322.97,82.38 311.53,83.99 300.09,85.56 288.65,87.09 277.22,89.79 265.78,93.89 254.34,97.96 242.90,101.88 231.47,105.39 220.03,108.05 208.59,112.21 197.15,115.91 185.71,119.06 174.28,121.90 162.84,123.82 151.40,123.20 139.96,120.68 128.52,116.73 117.09,112.85 105.65,112.90 94.21,117.33 82.77,125.97 71.34,136.59 59.90,151.24 ' style='stroke-width: 0.78; stroke: none; stroke-linecap: butt;' />
+<polyline points='59.90,94.76 71.34,94.71 82.77,94.65 94.21,94.82 105.65,95.51 117.09,96.32 128.52,96.76 139.96,97.41 151.40,97.47 162.84,96.75 174.28,95.25 185.71,93.29 197.15,91.17 208.59,88.65 220.03,86.11 231.47,83.82 242.90,81.53 254.34,78.68 265.78,75.67 277.22,72.77 288.65,70.83 300.09,69.33 311.53,67.65 322.97,65.63 334.41,63.49 345.84,61.32 357.28,59.47 368.72,58.97 380.16,59.40 391.60,62.10 403.03,67.33 414.47,75.31 425.91,85.03 437.35,96.54 448.79,109.74 460.22,124.57 471.66,139.61 483.10,154.79 ' style='stroke-width: 1.07; stroke: #002060; stroke-linecap: butt;' />
+<text x='406.46' y='23.56' text-anchor='end' style='font-size: 8.00px; font-family: "Arial";' textLength='49.70px' lengthAdjust='spacingAndGlyphs'>Pandemic-era</text>
+<text x='406.46' y='32.20' text-anchor='end' style='font-size: 8.00px; font-family: "Arial";' textLength='59.91px' lengthAdjust='spacingAndGlyphs'>cohorts (shaded)</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1MTAuMjR8MC4wMHwyNDAuOTQ=)'>
+<text x='33.16' y='167.33' text-anchor='end' style='font-size: 8.00px; font-family: "Arial";' textLength='11.12px' lengthAdjust='spacingAndGlyphs'>0.5</text>
+<text x='33.16' y='129.62' text-anchor='end' style='font-size: 8.00px; font-family: "Arial";' textLength='11.12px' lengthAdjust='spacingAndGlyphs'>0.7</text>
+<text x='33.16' y='89.65' text-anchor='end' style='font-size: 8.00px; font-family: "Arial";' textLength='11.12px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<polyline points='36.75,164.46 38.74,164.46 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='36.75,126.76 38.74,126.76 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='36.75,86.79 38.74,86.79 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='38.74,214.56 504.26,214.56 ' style='stroke-width: 0.64; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='82.77,216.55 82.77,214.56 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='197.15,216.55 197.15,214.56 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='311.53,216.55 311.53,214.56 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polyline points='425.91,216.55 425.91,214.56 ' style='stroke-width: 0.53; stroke: #7F7F7F; stroke-linecap: butt;' />
+<text x='82.77' y='225.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>1990</text>
+<text x='197.15' y='225.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>2000</text>
+<text x='311.53' y='225.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text x='425.91' y='225.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='271.50' y='235.28' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='40.94px' lengthAdjust='spacingAndGlyphs'>Birth cohort</text>
+<text transform='translate(9.72,114.71) rotate(-90)' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='83.50px' lengthAdjust='spacingAndGlyphs'>Detrended cohort effect</text>
+<text transform='translate(18.36,114.71) rotate(-90)' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='72.97px' lengthAdjust='spacingAndGlyphs'>(rate ratio, log scale)</text>
+<text x='3.99' y='10.08' style='font-size: 8.50px; font-weight: bold; font-family: "Arial";' textLength='442.86px' lengthAdjust='spacingAndGlyphs'>Bayesian age–period–cohort model (ages 0–19 years, 2007–2025): cohort effects after removing a linear trend</text>
+</g>
+</g>
+</svg>

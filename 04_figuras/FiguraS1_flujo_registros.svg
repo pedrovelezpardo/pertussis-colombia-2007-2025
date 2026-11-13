@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='510.24pt' height='311.81pt' viewBox='0 0 510.24 311.81'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTAuMjR8MC4wMHwzMTEuODE='>
+    <rect x='0.00' y='0.00' width='510.24' height='311.81' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTAuMjR8MC4wMHwzMTEuODE=)'>
+<rect x='0.00' y='0.00' width='510.24' height='311.81' style='stroke-width: 0.00; stroke: none; fill: #FFFFFF;' />
+<line x1='255.12' y1='53.86' x2='106.69' y2='99.21' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='109.78,95.90 106.69,99.21 111.10,100.23 ' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt; fill: #7F7F7F;' />
+<line x1='255.12' y1='53.86' x2='255.12' y2='99.21' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='252.85,95.28 255.12,99.21 257.39,95.28 ' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt; fill: #7F7F7F;' />
+<line x1='255.12' y1='53.86' x2='403.55' y2='99.21' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='399.13,100.23 403.55,99.21 400.46,95.90 ' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt; fill: #7F7F7F;' />
+<line x1='255.12' y1='147.40' x2='255.12' y2='184.25' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='252.85,180.32 255.12,184.25 257.39,180.32 ' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt; fill: #7F7F7F;' />
+<line x1='255.12' y1='229.61' x2='255.12' y2='269.29' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt;' />
+<polygon points='252.85,265.36 255.12,269.29 257.39,265.36 ' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-linecap: butt; fill: #7F7F7F;' />
+<polygon points='143.56,50.51 366.67,50.51 366.61,50.50 366.85,50.49 367.07,50.45 367.29,50.37 367.49,50.25 367.67,50.10 367.82,49.93 367.95,49.73 368.04,49.52 368.09,49.30 368.11,49.07 368.11,49.07 368.11,24.64 368.11,24.64 368.09,24.40 368.04,24.18 367.95,23.97 367.82,23.77 367.67,23.60 367.49,23.45 367.29,23.33 367.07,23.25 366.85,23.21 366.67,23.20 143.56,23.20 143.74,23.21 143.51,23.20 143.28,23.22 143.05,23.29 142.84,23.39 142.65,23.52 142.49,23.68 142.35,23.87 142.24,24.07 142.17,24.29 142.13,24.52 142.12,24.64 142.12,49.07 142.13,48.95 142.13,49.18 142.17,49.41 142.24,49.63 142.35,49.83 142.49,50.02 142.65,50.18 142.84,50.31 143.05,50.41 143.28,50.48 143.51,50.50 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='255.12' y='35.15' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='213.52px' lengthAdjust='spacingAndGlyphs'>Confirmed pertussis cases in the public SIVIGILA microdata,</text>
+<text x='255.12' y='44.27' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='121.81px' lengthAdjust='spacingAndGlyphs'>event 800, 2007–2025: n = 17,021</text>
+<polygon points='64.30,140.10 149.07,140.10 149.01,140.10 149.24,140.09 149.47,140.05 149.69,139.97 149.89,139.85 150.07,139.70 150.22,139.53 150.34,139.33 150.43,139.12 150.49,138.90 150.51,138.66 150.51,138.66 150.51,105.12 150.51,105.12 150.49,104.88 150.43,104.66 150.34,104.45 150.22,104.25 150.07,104.08 149.89,103.93 149.69,103.81 149.47,103.73 149.24,103.69 149.07,103.68 64.30,103.68 64.48,103.69 64.25,103.68 64.02,103.70 63.79,103.77 63.58,103.87 63.39,104.00 63.23,104.16 63.09,104.35 62.98,104.55 62.91,104.77 62.87,105.00 62.86,105.12 62.86,138.66 62.87,138.55 62.87,138.78 62.91,139.01 62.98,139.23 63.09,139.43 63.23,139.62 63.39,139.78 63.58,139.91 63.79,140.01 64.02,140.08 64.25,140.10 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='106.69' y='115.63' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='75.17px' lengthAdjust='spacingAndGlyphs'>Time-series analyses</text>
+<text x='106.69' y='124.75' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='67.00px' lengthAdjust='spacingAndGlyphs'>(onset 2007–2025)</text>
+<text x='106.69' y='133.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='37.94px' lengthAdjust='spacingAndGlyphs'>n = 16,998</text>
+<polygon points='209.49,144.66 300.75,144.66 300.69,144.66 300.92,144.65 301.15,144.61 301.37,144.53 301.57,144.41 301.75,144.26 301.90,144.09 302.03,143.89 302.12,143.68 302.17,143.46 302.19,143.22 302.19,143.22 302.19,100.56 302.19,100.56 302.17,100.32 302.12,100.10 302.03,99.89 301.90,99.69 301.75,99.52 301.57,99.37 301.37,99.25 301.15,99.17 300.92,99.13 300.75,99.12 209.49,99.12 209.66,99.13 209.43,99.12 209.20,99.14 208.98,99.21 208.77,99.31 208.58,99.44 208.41,99.60 208.27,99.79 208.16,99.99 208.09,100.21 208.05,100.44 208.05,100.56 208.05,143.22 208.05,143.11 208.05,143.34 208.09,143.57 208.16,143.79 208.27,143.99 208.41,144.18 208.58,144.34 208.77,144.47 208.98,144.57 209.20,144.64 209.43,144.66 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='255.12' y='111.07' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='81.67px' lengthAdjust='spacingAndGlyphs'>Age-structure analyses</text>
+<text x='255.12' y='120.19' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='52.34px' lengthAdjust='spacingAndGlyphs'>(age recorded)</text>
+<text x='255.12' y='129.31' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='37.94px' lengthAdjust='spacingAndGlyphs'>n = 16,973</text>
+<text x='255.12' y='138.43' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='43.03px' lengthAdjust='spacingAndGlyphs'>(no age: 48)</text>
+<polygon points='360.49,140.10 446.61,140.10 446.55,140.10 446.79,140.09 447.01,140.05 447.23,139.97 447.43,139.85 447.61,139.70 447.76,139.53 447.89,139.33 447.98,139.12 448.03,138.90 448.05,138.66 448.05,138.66 448.05,105.12 448.05,105.12 448.03,104.88 447.98,104.66 447.89,104.45 447.76,104.25 447.61,104.08 447.43,103.93 447.23,103.81 447.01,103.73 446.79,103.69 446.61,103.68 360.49,103.68 360.66,103.69 360.43,103.68 360.20,103.70 359.98,103.77 359.77,103.87 359.58,104.00 359.41,104.16 359.27,104.35 359.16,104.55 359.09,104.77 359.05,105.00 359.05,105.12 359.05,138.66 359.05,138.55 359.05,138.78 359.09,139.01 359.16,139.23 359.27,139.43 359.41,139.62 359.58,139.78 359.77,139.91 359.98,140.01 360.20,140.08 360.43,140.10 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='403.55' y='115.63' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='67.50px' lengthAdjust='spacingAndGlyphs'>Municipal analyses</text>
+<text x='403.55' y='124.75' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='75.47px' lengthAdjust='spacingAndGlyphs'>(age and municipality</text>
+<text x='403.55' y='133.87' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='76.53px' lengthAdjust='spacingAndGlyphs'>recorded): n = 16,836</text>
+<polygon points='173.77,225.14 336.47,225.14 336.41,225.14 336.64,225.13 336.87,225.09 337.09,225.00 337.29,224.89 337.47,224.74 337.62,224.57 337.74,224.37 337.83,224.16 337.89,223.93 337.91,223.70 337.91,223.70 337.91,190.15 337.91,190.15 337.89,189.92 337.83,189.70 337.74,189.49 337.62,189.29 337.47,189.12 337.29,188.97 337.09,188.85 336.87,188.77 336.64,188.73 336.47,188.71 173.77,188.71 173.94,188.73 173.71,188.72 173.48,188.74 173.26,188.81 173.05,188.91 172.86,189.04 172.69,189.20 172.55,189.38 172.44,189.59 172.37,189.81 172.33,190.04 172.33,190.15 172.33,223.70 172.33,223.59 172.33,223.82 172.37,224.05 172.44,224.27 172.55,224.47 172.69,224.66 172.86,224.82 173.05,224.95 173.26,225.05 173.48,225.11 173.71,225.14 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='255.12' y='200.67' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='139.88px' lengthAdjust='spacingAndGlyphs'>Infants notified in 2011–2025: n = 9,849</text>
+<text x='255.12' y='209.79' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='153.11px' lengthAdjust='spacingAndGlyphs'>Excluded: no department of residence (71),</text>
+<text x='255.12' y='218.91' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='115.39px' lengthAdjust='spacingAndGlyphs'>unknown insurance scheme (21)</text>
+<polygon points='172.78,289.72 337.46,289.72 337.40,289.72 337.63,289.71 337.86,289.67 338.08,289.59 338.28,289.47 338.46,289.32 338.61,289.15 338.74,288.95 338.83,288.74 338.88,288.52 338.90,288.28 338.90,288.28 338.90,272.98 338.90,272.98 338.88,272.74 338.83,272.52 338.74,272.31 338.61,272.11 338.46,271.94 338.28,271.79 338.08,271.67 337.86,271.59 337.63,271.55 337.46,271.54 172.78,271.54 172.95,271.55 172.72,271.54 172.49,271.56 172.26,271.63 172.06,271.73 171.86,271.86 171.70,272.02 171.56,272.21 171.45,272.41 171.38,272.63 171.34,272.86 171.34,272.98 171.34,288.28 171.34,288.17 171.34,288.40 171.38,288.63 171.45,288.85 171.56,289.05 171.70,289.24 171.86,289.40 172.06,289.53 172.26,289.63 172.49,289.70 172.72,289.72 ' style='stroke-width: 0.64; fill: #FFFFFF;' />
+<text x='255.12' y='283.49' text-anchor='middle' style='font-size: 8.00px; font-family: "Arial";' textLength='155.09px' lengthAdjust='spacingAndGlyphs'>Infant death models: n = 9,757 (256 deaths)</text>
+</g>
+</g>
+</svg>
