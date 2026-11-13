@@ -20,6 +20,9 @@ authors:
     affiliation: "Universidad CES, Medellín, Colombia"
     orcid: "https://orcid.org/0009-0006-3850-0440"
 repository-code: "https://github.com/pedrovelezpardo/pertussis-colombia-2007-2025"
+license:
+  - MIT
+  - CC-BY-4.0
 keywords:
   - pertussis
   - Bordetella pertussis
